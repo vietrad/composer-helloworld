@@ -2,7 +2,6 @@
     "name": "vietrad/hello-world",
     "description": "the first composer package",
     "type": "php",
-    "license": "aaa",
     "authors": [
         {
             "name": "dangtham",
