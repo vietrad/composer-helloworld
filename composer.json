@@ -1,13 +1,13 @@
 {
     "name": "vietrad/hello-world",
     "description": "the first composer package",
-    "type": "php",
     "authors": [
         {
             "name": "dangtham",
             "email": "dangtham@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
     },
